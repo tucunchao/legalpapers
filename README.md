@@ -1,14 +1,14 @@
 ## Must-read papers on LegalAI.
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/).
 
-### Highly relevent papers:
+### Highly relevant papers
 
 1. **Learning to Predict Charges for Criminal Cases with Legal Basis.**
 *Bingfeng Luo, Yansong Feng, Jianbo Xu, Xiang Zhang, Dongyan Zhao* EMNLP 2017. [paper](https://arxiv.org/pdf/1707.09168.pdf)
 
 
-### Similar case matching（Semantic mathcing）
+### Similar case matching (Semantic mathcing)
 
 1. **Convolutional neural network architectures for matching natural language sentences.**
 *Baotian Hu, Zhengdong Lu, Hang Li, Qingcai Chen* NIPS 2014. [paper](http://papers.nips.cc/paper/5550-convolutional-neural-network-architectures-for-matching-natural-language-sentences.pdf)
@@ -53,6 +53,6 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/).
 
 ### Datasets
 
-*Case documents:* $\approx 20,000,000$. Among them, $\aaprox 3,000,000$ documents contain detailed annotations, including courts, types, causes, relevant laws and dates.
+*Case documents:* \\(\approx 20,000,000\\). Among them, \\(\aaprox 3,000,000\\) documents contain detailed annotations, including courts, types, causes, relevant laws and dates.
 
-$Laws:$ $1617$ laws, including penal law, civil law and so on.
+*Laws:* \\(1617\\) laws, including penal law, civil law and so on.
