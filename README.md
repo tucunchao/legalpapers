@@ -1,5 +1,5 @@
 ## Must-read papers on LegalAI.
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/).
 
 ### Highly relevant papers
@@ -53,6 +53,6 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/).
 
 ### Datasets
 
-*Case documents:* \\(\approx 20,000,000\\). Among them, \\(\aaprox 3,000,000\\) documents contain detailed annotations, including courts, types, causes, relevant laws and dates.
+*Case documents:* (http://chart.googleapis.com/chart?cht=tx&chl=\approx 20,000,000). Among them, (http://chart.googleapis.com/chart?cht=tx&chl=\aaprox 3,000,000) documents contain detailed annotations, including courts, types, causes, relevant laws and dates.
 
-*Laws:* \\(1617\\) laws, including penal law, civil law and so on.
+*Laws:* (http://chart.googleapis.com/chart?cht=tx&chl=1617) laws, including penal law, civil law and so on.
