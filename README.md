@@ -53,6 +53,22 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/).
 
 ### Datasets
 
-*Case documents:* (http://chart.googleapis.com/chart?cht=tx&chl=\approx 20,000,000). Among them, (http://chart.googleapis.com/chart?cht=tx&chl=\aaprox 3,000,000) documents contain detailed annotations, including courts, types, causes, relevant laws and dates.
+**Case documents:** \approx 20,000,000 cases. Among them, \approx 3,000,000 documents contain detailed annotations, including courts, types, causes, relevant laws and dates.
 
-*Laws:* (http://chart.googleapis.com/chart?cht=tx&chl=1617) laws, including penal law, civil law and so on.
+**Laws:** 1617 laws, including penal law, civil law and so on.
+
+### AI and Laws
+
+**ICAIL**(International Conference on Artificial Intelligence and Law)  is the primary international conference addressing research in Artificial Intelligence and Law, and has been organized biennially since 1987 under the auspices of the International Association for Artificial Intelligence and Law (IAAIL).
+
+**Journal:** [Artificial Intelligence and Law](https://link.springer.com/journal/volumesAndIssues/10506)
+
+**Proceedings:** 
+
+1. [ICAIL 2017](https://nms.kcl.ac.uk/icail2017/papers.php)
+
+1. [ICAIL 2015](https://dl.acm.org/citation.cfm?id=2746090)
+
+### Projects for novices
+
+1. **Charge Prediction:** employ CNN and LSTM models to predict charges on civil cases. 
